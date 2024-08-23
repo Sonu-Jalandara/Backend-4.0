@@ -1,0 +1,21 @@
+{
+  "name": "backend4.0",
+  "version": "1.0.0",
+  "description": "a new backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lassi",
+    "chai",
+    "new",
+    "backend"
+  ],
+  "author": "sonu jalandara",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
